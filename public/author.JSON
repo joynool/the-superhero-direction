@@ -1,0 +1,110 @@
+[
+  {
+    "key": 1,
+    "name": "Rabindranath Tagore",
+    "occupation": "Poet, novelist, dramatist",
+    "period": "Bengali Renaissance",
+    "notableWorks": "Gitanjali, Ghare-Baire, Gora",
+    "honorarium": 10,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/80/Rabindranath_Tagore_unknown_location.jpg"
+  },
+  {
+    "key": 2,
+    "name": "Sarat Chandra Chattopadhyay",
+    "occupation": "Writer, novelist",
+    "period": "19th century-20th century",
+    "notableWorks": "Srikanta, Choritrohin, Devdas",
+    "honorarium": 10,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Sarat_Chandra_Chattopadhyay_portrait.jpg"
+  },
+  {
+    "key": 3,
+    "name": "Manik Bandopadhyay",
+    "occupation": "Writer",
+    "period": "20th century",
+    "notableWorks": "Padma Nadir Majhi, Putul Nacher Itikatha",
+    "honorarium": 10,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/22/Manik_Bandopadhyay.jpg"
+  },
+  {
+    "key": 4,
+    "name": "Kazi Nazrul Islam",
+    "occupation": "Poet, writer, song composer",
+    "period": "1899-1976",
+    "notableWorks": "Notuner Gaan, Pralayollas, Dhumketu",
+    "honorarium": 10,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Nazrul.jpg"
+  },
+  {
+    "key": 5,
+    "name": "Jasimuddin",
+    "occupation": "Poet, songwriter, writer",
+    "period": "1903-1976",
+    "notableWorks": "Nakshi Kanthar Math",
+    "honorarium": 10,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/51/Jasimuddin_Lomax_1951_%282%29.jpg"
+  },
+  {
+    "key": 6,
+    "name": "Sunil Gangopadhyay",
+    "occupation": "Writer",
+    "period": "1953–2012",
+    "notableWorks": "Aranyer Din Ratri, Prathama Alo",
+    "honorarium": 10,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Sunil_Gangopadhyay_2010.JPG"
+  },
+  {
+    "key": 7,
+    "name": "Bibhutibhushan Bandyopadhyay",
+    "occupation": "Writer, novelist, songwriter",
+    "period": "1894-1950",
+    "notableWorks": "Pather Panchali, Aranyak",
+    "honorarium": 10,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Bibhutibhushan_Bandopadhyay.jpg"
+  },
+  {
+    "key": 8,
+    "name": "Bankim Chandra Chatterjee",
+    "occupation": "Writer, poet, novelist",
+    "period": "1838-1894",
+    "notableWorks": "Durgeshnandini, Kapalkundala",
+    "honorarium": 10,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/18/%E0%A6%AC%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%AE%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC_2.jpg"
+  },
+  {
+    "key": 9,
+    "name": "Shirshendu Mukhopadhyay",
+    "occupation": "Author, Teacher",
+    "period": "1935-present",
+    "notableWorks": "Manabjamin, Durbin, Parthib",
+    "honorarium": 10,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Sirshendu_Mukhopadhyay_-_Kolkata_2014-02-07_8657.JPG"
+  },
+  {
+    "key": 10,
+    "name": "Jibanananda Das",
+    "occupation": "Poet, writer, professor",
+    "period": "1899-1954",
+    "notableWorks": "Banalata Sen, Rupasi Bangla",
+    "honorarium": 10,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/da/Jibanananda_Das_%281899%E2%80%931954%29.jpg"
+  },
+  {
+    "key": 11,
+    "name": "Ahmed Sofa",
+    "occupation": "Writer",
+    "period": "1943-2001",
+    "notableWorks": "Bangali Musalmaner Man",
+    "honorarium": 10,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Ahmed_Sofa.jpg"
+  },
+  {
+    "key": 12,
+    "name": "Taslima Nasrin",
+    "occupation": "Author, Activist",
+    "period": "1962-present",
+    "notableWorks": "Lajja",
+    "honorarium": 10,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/48/Taslima_Nasrin_2019.jpg"
+  }
+]
