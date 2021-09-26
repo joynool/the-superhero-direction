@@ -1,3 +1,3 @@
-# Getting Started with Create React App
+# The Talk Show Direction
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Check out my live site [talk-show-direction](https://talk-show-direction.netlify.app/).
