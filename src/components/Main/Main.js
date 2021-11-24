@@ -33,6 +33,13 @@ const Main = () =>
         setCart(uniqueGuests);
     };
 
+    const handleCancel = guest =>
+    {
+        let cartGuests = [...cart];
+        let remainingGuests = cartGuests.filter(gts => gts.key !== guest);
+        setCart(remainingGuests);
+    }
+
     /* Pass data to Guest and Cart using unidirectional method */
     return (
         <div className="container mt-4 mb-4">
@@ -49,7 +56,10 @@ const Main = () =>
                     </div>
                 </div>
                 <div className="col-lg-3">
-                    <Cart cart={cart} />
+                    <Cart
+                        cart={cart}
+                        handleCancel={handleCancel}
+                    />
                 </div>
             </div>
         </div>

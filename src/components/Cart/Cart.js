@@ -4,7 +4,7 @@ import './Cart.css';
 
 const Cart = (props) =>
 {
-    const { cart } = props;
+    const { cart, handleCancel } = props;
 
     let quantity = 0;
     let cost = 0;
@@ -22,7 +22,7 @@ const Cart = (props) =>
         Set data dynamically after calculation and using map() to show name of invite guest names
     -------------------------------------------------------------------*/
     return (
-        <div className="border border-secondary rounded-3 shadow p-3 sticky-top">
+        <div className="border border-secondary rounded-3 shadow px-2 py-3 sticky-top">
             <h3>Guest Added: {quantity}</h3>
             <div className="border border-success p-1 mb-2 rounded-3">
                 <p className="fw-bold">Show Cost: {cost} Lac (BDT)</p>
@@ -37,6 +37,7 @@ const Cart = (props) =>
                         cart.map(inviteGuest => <InviteNameList
                             key={inviteGuest.key}
                             inviteGuest={inviteGuest}
+                            handleCancel={handleCancel}
                         />)
                     }
                 </ul>
